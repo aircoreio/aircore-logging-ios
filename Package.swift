@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AircoreLogging",
-            url: "https://airtime-eng-asilomar-libs.s3-accelerate.amazonaws.com/jobs/airtimemedia/scotia/release%252F1.2/1/AircoreLogging.xcframework.zip",
-            checksum: "cf1426a5367c5994933236935c3e09cd1f249e4ed7ff083758e6332a31965df3"
+            url: "https://airtime-eng-asilomar-libs.s3-accelerate.amazonaws.com/jobs/airtimemedia/scotia/release%252F1.3/1/AircoreLogging.xcframework.zip",
+            checksum: "81436bfc5b38fc6cfde144cd9db09f76397ae367096a8061c1cee2b09fbeb004"
         )
     ]
 )
